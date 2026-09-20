@@ -4,6 +4,7 @@ A basic note-taking app built with **React**, **Tailwind CSS**, and **React Icon
 
 This repository contains a simple, responsive note app where users can add notes, view recent notes, and see note statistics.
 
+live : https://note-6773s1jfd-vishal-s-projects-0203809b.vercel.app 
 ## 🚀 Tech Stack
 
 - **React** - UI library for building interactive components
